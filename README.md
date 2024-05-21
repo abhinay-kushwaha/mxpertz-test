@@ -1,5 +1,5 @@
 This is my test conduct by Mxpertz Private IT company Indore
-Deploy 👉 https://marvelous-nasturtium-dbade1.netlify.app/
+Deploy 👉 https://mxpertz-test.netlify.app/
 
 # React + Vite
 
